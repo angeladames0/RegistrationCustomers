@@ -32,5 +32,4 @@ Extras:
 
 Este proyecto fue realizado con eclipse y mysql
 
-Link Video: https://drive.google.com/file/d/1ZkWwpTc_Wskg7nnCrjgocUo-9jGJU1XV/view?usp=sharing
-
+Link Video:  https://drive.google.com/file/d/1ZkWwpTc_Wskg7nnCrjgocUo-9jGJU1XV/view?usp=sharing
