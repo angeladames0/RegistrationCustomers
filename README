@@ -1,3 +1,9 @@
+Tarea 4 Prog 1
+
+Este es un programa basico de registro de clientes, cuenta con funciones como, agregar, modificar y eliminar datos.
+
+La carpeta Interfaces cuenta con 6 archivos los cuales son: clientes, eliminar, login, modificar, nuevo y registro.
+
 Cliente: en este mostramos la visualizacion de la tabla, como tambien los botones nuevo, modiicar, eliminar y cerrar sesion.
 Eliminar: en este podremos eliminar un registro, solamente con ingresar un usuario(registrado).
 Login: en este ingresaremos al sistema(Cliente) y contiene botones para registrarse y logearse.
