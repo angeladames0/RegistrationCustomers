@@ -1,35 +1,33 @@
-Tarea 4 Prog 1
+This is a basic customer registration program, it has functions such as add, modify and delete data.
 
-Este es un programa basico de registro de clientes, cuenta con funciones como, agregar, modificar y eliminar datos.
+The Interfaces folder has 6 files which are: clients, delete, login, modify, new and register.
 
-La carpeta Interfaces cuenta con 6 archivos los cuales son: clientes, eliminar, login, modificar, nuevo y registro.
-
-Cliente: en este mostramos la visualizacion de la tabla, como tambien los botones nuevo, modiicar, eliminar y cerrar sesion.
-Eliminar: en este podremos eliminar un registro, solamente con ingresar un usuario(registrado).
-Login: en este ingresaremos al sistema(Cliente) y contiene botones para registrarse y logearse.
-Modificar: en este podremos modificar datos de algun usuario registrado, tendremos un boton "Buscar" el cual 
-le añadiremos el usuario a modificar y te traeria todos los datos de ese usuario.
-Nuevo: en este este podremos registrar un nuevo usuario.
-Registro: en este, es donde nos registraremos para luego ingresar al sistema(Cliente).
+Client: in this we show the visualization of the table, as well as the buttons new, modify, delete and close session.
+Delete: in this one we will be able to delete a record, only with entering a user (registered).
+Login: in this one we will enter to the system (Client) and contains buttons to register and to log in.
+Modify: in this one we will be able to modify data of some registered user, we will have a button "Search" which we will add the user to 
+we will add the user to modify and it will bring you all the data of that user.
+New: in this one we will be able to register a new user.
+Register: in this one, is where we will register to enter to the system (Client).
 
 
-La carpeta Conexion cuenta con 3 archivos los cuales son: DBCusuario, DBconexion, DBregistro.
+The Connection folder has 3 files which are: DBCuser, DBconnection, DBregistration.
 
-DBCusuario: aqui encontramos el metodo para validar los usuarios y el email, para que no haya duplicados y el email este correctamente
-y el metodo de confirmar contraseña.
-DBconexion: aqui es donde se realiza la coneccion para llamar la base de datos a nuestro programa.
-DBregistro: aqui tenemos Strings almacenadas para usalas en el registro.
+DBCusuario: here we find the method to validate the users and the email, so that there are no duplicates and the email is correct
+and the method to confirm password.
+DBconnection: here is where the connection is made to call the database to our program.
+DBregistry: here we have Strings stored to use them in the registry.
 
 
 Extras:
 
-*Si dejamos los campos vacios en el registro nos sale una alerta.
-*Si las contraseñas no coinciden en el registro sale una alerta.
-*Si intentamos iniciar sesion sin datos sale una alerta.
-*Una vez agregamos, modificamos o aliminamos algun usuario, este se vera reflejado automaticamente en la pantalla principal
+*If we leave the empty fields in the registry we get an alert.
+*If the passwords do not coincide in the registry an alert comes out.
+*If we try to initiate session without data an alert comes out.
+*Once we add, modify or delete a user, this will be automatically reflected in the main screen.
 
 
 
-Este proyecto fue realizado con eclipse y mysql.
+This project was made with eclipse and mysql.
 
-Link video: https://drive.google.com/file/d/1ZkWwpTc_Wskg7nnCrjgocUo-9jGJU1XV/view?usp=sharing
+Translated with www.DeepL.com/Translator (free version)
